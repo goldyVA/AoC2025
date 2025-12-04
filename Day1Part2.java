@@ -3,7 +3,7 @@ import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.*; // Import the Scanner class to read text files
 
-public class Day1Part2_2025
+public class Day1Part2
 {
   public static void main(String[] args) 
   {
